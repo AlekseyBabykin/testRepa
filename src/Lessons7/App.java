@@ -12,7 +12,7 @@ public class App {
         int result = 0;
         for (int x : nums)
             result += x;
-        System.out.println(result);
+        System.out.println(result + "fsfksllslssl");
     }
 }
 
